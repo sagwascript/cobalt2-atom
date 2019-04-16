@@ -14,7 +14,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#193549</string>
+        <string>#131822</string>
         <key>caret</key>
         <string>#ffc600</string>
         <key>foreground</key>
@@ -678,7 +678,7 @@
         <string>PHP class name</string>
         <key>scope</key>
         <string>
-          , entity.name.class.php, 
+          , entity.name.class.php,
           , entity.name.type.class.php,
         </string>
         <key>settings</key>
@@ -870,7 +870,7 @@
      <string>Object Keys</string>
      <key>scope</key>
      <string>
-      , string.unquoted.label.js, 
+      , string.unquoted.label.js,
       , meta.object-literal.key.js -string,
      </string>
      <key>settings</key>
@@ -889,7 +889,7 @@
      <string>Class Name</string>
      <key>scope</key>
      <string>
-      , entity.name.class.js, 
+      , entity.name.class.js,
       , entity.name.type.class.js,
      </string>
      <key>settings</key>
